@@ -4,8 +4,6 @@ Hi 👋, I'm Sâmi Andrade
 ### A passionate frontend developer from Brazil
 
 
-[![samiandrade](https://github-profile-trophy.vercel.app/?username=samiandrade)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/sâmi-carvalho-793a45270)
