@@ -7,7 +7,7 @@
 
 ### 👋 Sobre mim
 
-- 👨‍💻 Desenvolvedor Front-End brasileiro
+- 👨‍💻 Desenvolvedora FullStack
 - 💡 Foco em criar experiências digitais intuitivas e responsivas
 - 🧪 Explorando constantemente novas stacks e boas práticas
 
