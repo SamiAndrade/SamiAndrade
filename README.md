@@ -1,13 +1,13 @@
 <!-- Título com animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Sâmi+Andrade;Front-End+Developer+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Sâmi+Andrade;Desenvolvedora Fullstack+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 Sobre mim
 
-- 👨‍💻 Desenvolvedora FullStack
+- 👨‍💻 Desenvolvedora Fullstack
 - 💡 Foco em criar experiências digitais intuitivas e responsivas
 - 🧪 Explorando constantemente novas stacks e boas práticas
 
