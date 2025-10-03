@@ -32,8 +32,8 @@ Hi 👋, I'm Sâmi Andrade
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![samiandrade](https://github-readme-stats.vercel.app/api/top-langs?username=samiandrade&show_icons=true&locale=en&layout=compact)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiandrade&layout=compact)](https://github.com/samiandrade)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiandrade&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![samiandrade](https://github-readme-stats.vercel.app/api?username=samiandrade&show_icons=true&theme=dracula)](https://github.com/samiandrade)
 
 ![samiandrade](https://github-readme-streak-stats.herokuapp.com/?user=samiandrade&)
