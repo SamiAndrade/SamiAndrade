@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Linguagens e Ferramentas
 
 <div align="center">
 
